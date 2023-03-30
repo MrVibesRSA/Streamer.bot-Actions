@@ -10,7 +10,8 @@ TlM0RR+LCAAAAAAABADtXVmT4kp2fnfE/AfcfpiHGXq0oCp0IxzhgkIsVagaARJo2uHQBlIhIZpdOPzf
 ## Installation
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
-![Clip-To-Discord-Import](Images/Clip-To-Discord-Import.png)
++ Example: 
++ ![Clip-To-Discord-Import](Images/Clip-To-Discord-Import.png)
 
 + You should now have 1 new action.
 + Example: 
