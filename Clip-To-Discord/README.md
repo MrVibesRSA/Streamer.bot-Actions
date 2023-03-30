@@ -22,34 +22,8 @@ Copy the `Import Code` and paste it into the `Import String`.
 + Now for the Admin to get the Giveaway ready, would recommend to do so before stream but can be done while streaming.
 + Using the !setinfo allows you or a mod to set the info for the giveaway keeping in mind twitch's 500 character limit in chat.
 + Example: ![alt text](/assets/giveaways/images/5.png "image title")
-+ Using the !setduration "Number" allows you or a mod to set the duration the giveaway will run for in minutes with a minimum of 5 minutes.
-  This means you can run the giveaway for 60 min or for an entire 3 hour (180 minute) stream.
-+ Example: ![alt text](/assets/giveaways/images/6.png "image title")
-+ Sets the duration of the giveaway for 10 minutes, once the duration is over viewers are unable to enter regardless of the 
-  entries they have left.
-+ Using the !setentries allows you or a mod to specify the amount of times a Viewer is allowed to enter the giveaway.
-+ Example: ![alt text](/assets/giveaways/images/7.png "image title")
-+ Sets the Limit of entries to 5, giving our viewers more of a chance to win. The limit can be raised during a giveaway,
-  but lowering it is not recommended as this will put new entries at a disadvantage.
-+ Using the !rungiveaway allows you or a mod to start the giveaway, this will run for the previously set duration. While
-  the giveaway is running viewers able to enter the giveaway until their entries are up.
-+ Example: ![alt text](/assets/giveaways/images/8.png "image title")
-+ You are also able to run the giveaway multiple times, incase you feel like giving chat another chance to get their entries in.
-  Each time you use the the !rungiveaway command it will run for the the previously set duration unless you have set a new duration.
-+ Using the !pickwinner allows you or a mod to randomly pick a Winner from the Entries.
-+ Example: ![alt text](/assets/giveaways/images/9.png "image title")
-+ You are also able to pick multiple winners by adding a space with a number to the end of the !pickwinner command, as in the example
-  it will pick 2 winners from the entry list and add them to the winners list for later review. It will also notify them in chat with a message 
-  to let them know they won.
-+ Using the !clear allows you or a mod to clear the entry list, this allows the viewers to re-enter until their entries are up again.
-+ Example: ![alt text](/assets/giveaways/images/10.png "image title")
-+ Using the !entry allows your viewers to enter the Giveaway, they can enter one entry at a time or enter all their available entries at once by
-  by adding the appropriate number with a space after the !enter command as in the Example.
-+ Example: ![alt text](/assets/giveaways/images/11.png "image title")
-+ Using the !giveaway command allows your viewers to get the info of the giveaway that you previously set.
-+ Example: ![alt text](/assets/giveaways/images/12.png "image title")
 
 # Contributors
 
- - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA){.twitch}
- {.contributors}
+ - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
+ - [ShimmyMySherbet](https://github.com/ShimmyMySherbet)
