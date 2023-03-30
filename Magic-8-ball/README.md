@@ -24,3 +24,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 ## Contributors
  - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
+ 
+ + [More Actions](README.md)
