@@ -26,4 +26,4 @@ Copy the `Import Code` and paste it into the `Import String`.
  - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
  - [ShimmyMySherbet](https://github.com/ShimmyMySherbet)
  
- + [More Actions](README.md)
+ + [More Actions](https://github.com/MrVibesRSA/Streamer.bot-Actions)
