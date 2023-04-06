@@ -24,5 +24,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 ## Contributors
  - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
- - [Rondhi](https://www.twitch.tv/rondhi) based on their Countdown Timer - I just made it more user friendly and ajusted it for a Speed run need.
+ - [Rondhi](https://www.twitch.tv/rondhi) - (based on their Countdown Timer - I just made it more user friendly and ajusted it for a Speed run need.)
  + [More Actions](https://github.com/MrVibesRSA/Streamer.bot-Actions)
