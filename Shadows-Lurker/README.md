@@ -1,0 +1,37 @@
+# Shadows Lurker
+ This Action alows you lurk/unlurk in chat with a counter counting the lost souls!
+
+## Import Code
++ Copy This Code.
+```text
+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
+```
+
+## Installation
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`. 
++ Example:
++ ![Import](Images/Import.png)
+
++ You should now have 8 new actions.
++ Example:
++ ![List-of-imported-Actions](Images/List-of-imported-Actions.png "List-of-imported-Actions")
+
++ You should now have 4 new commands.
++ Example:
++ ![List-of-imported-Commands](Images/List-of-imported-Commands.png "List-of-imported-Commands")
+
+## Subaction Setup
+Change the OBS GDI Text to your Deathcounters Text.
++ Example:
++ ![Setup](Images/Setup.png "Setup")
+
+## Example Usage
++ You can now bind these actions to chat Commands.
++ Example:
++ ![Example](Images/Example.png "Example")
+
+## Contributors
+ - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
+
+ + [More Actions](https://github.com/MrVibesRSA/Streamer.bot-Actions)
