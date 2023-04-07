@@ -34,4 +34,5 @@ Change the OBS GDI Text to your Deathcounters Text.
 ## Contributors
  - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
  - [VRFlad](https://www.twitch.tv/vrflad) - (based on their deathcounter, I refactored the code and fixed a small bug with Set and Reset.)
+ - [SoundlesS_7](https://www.twitch.tv/SoundlesS_7) Tester.
  + [More Actions](https://github.com/MrVibesRSA/Streamer.bot-Actions)
