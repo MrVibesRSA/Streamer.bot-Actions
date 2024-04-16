@@ -3,8 +3,9 @@
 
 ## Import Code
 + Copy This Code.
-```text
 [Link to Text File](Text/Import-Code.txt)
+```text
+
 ```
 ## Installation
 In Streamer.bot in select `Import` from the top left.
