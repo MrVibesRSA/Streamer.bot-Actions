@@ -3,7 +3,7 @@
 
 ## Import Code
 + Copy This Code.
-[Link to Text File](Text/Import-Code.txt)
++ [Link to Import Code](Text/Import-Code.txt)
 ```text
 
 ```
