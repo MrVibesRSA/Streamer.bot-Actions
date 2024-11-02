@@ -13,7 +13,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 + Example:
 + ![Import](Images/Import.png)
 
-+ You should now have 2 new action.
++ You should now have 4 new action.
 + Example:
 + ![List-of-imported-Actions](Images/List-of-imported-Actions.png "List-of-imported-Actions")
 
