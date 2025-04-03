@@ -66,7 +66,7 @@ Copy the `Import Code` and paste it into the `Import String`.
  + [More Actions](https://github.com/MrVibesRSA/Streamer.bot-Actions)
  
  ## Change log 03/04/2025
- - Added auto draw fanctionality
+ + Added auto draw fanctionality
  + Auto draw  winner/winners  at the  and of giveaway duration.
  + Added the abillity to set the number of winners to be auto drawn.
  + Added the abillity to add events to the enter giveaway action (Follows, First words and etc.)
