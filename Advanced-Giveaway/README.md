@@ -54,9 +54,9 @@ Copy the `Import Code` and paste it into the `Import String`.
 + Example: ![alt text](Images/10.png "image title")
 + Using the !entry allows your viewers to enter the Giveaway, they can enter one entry at a time or enter all their available entries at once by
   by adding the appropriate number with a space after the !enter command as in the Example.
-+ Example: ![alt text](img/11.png "image title")
++ Example: ![alt text](Images/11.png "image title")
 + Using the !giveaway command allows your viewers to get the info of the giveaway that you previously set.
-+ Example: ![alt text](img/12.png "image title")
++ Example: ![alt text](Images/12.png "image title")
 
 ## Contributors
  - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
