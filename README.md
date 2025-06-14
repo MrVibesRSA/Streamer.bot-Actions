@@ -8,4 +8,3 @@
 + [Shadows-Lurker](Shadows-Lurker/README.md)
 + [Speed Run Timer](Speed-Run-Timer/README.md)
 + [Twitch Clip to Discord](Clip-To-Discord/README.md)
-+ [Streamer.bot Globals to Macro Deck](Update-Macro-Deck-veriables/README.md)
