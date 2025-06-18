@@ -12,7 +12,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 + Example:
 + ![Import](Images/Import.png)
 
-+ You should now have 11 new action an 9 new commands. Dont forget to enable the commands after importing.
++ You should now have 15 new action an 9 new commands. Dont forget to enable the commands after importing.
 + Example:
 + ![List-of-imported-Actions](Images/List-of-imported-Actions.png "List-of-imported-Actions")
 
